@@ -1,4 +1,4 @@
-accounts:
+bank-cards:
   message: Welcome to tigray bank cards default application
   mailDetails:
     hostName: default-card@tigraybank.com
