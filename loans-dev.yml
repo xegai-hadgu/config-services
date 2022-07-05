@@ -1,4 +1,4 @@
-accounts:
+loans:
   message: Welcome to tigray loans dev application
   mailDetails:
     hostName: dev-loans@tigraybank.com
