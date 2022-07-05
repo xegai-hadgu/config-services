@@ -1,4 +1,4 @@
-accounts:
+bank-cards:
   message: Welcome to tigray bank cards prod application
   mailDetails:
     hostName: dprod-card@tigraybank.com
