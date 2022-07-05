@@ -1,4 +1,4 @@
-accounts:
+loans:
   message: Welcome to tigray loans prod application
   mailDetails:
     hostName: prod-loans@tigraybank.com
