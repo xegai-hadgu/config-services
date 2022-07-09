@@ -1,7 +1,7 @@
 bank-cards:
   message: Welcome to tigray bank cards prod application
   mailDetails:
-    hostName: dprod-card@tigraybank.com
+    hostName: prod-card@tigraybank.com
     port: 4000
     from: prod-cards@tigraybank.com
     subject: your cards info from prod environment
